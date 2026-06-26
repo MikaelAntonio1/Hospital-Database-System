@@ -30,10 +30,6 @@ Simular um sistema hospitalar contendo pacientes, médicos, consultas, quartos, 
 - Leitos
 - Internações
 
-## 📷 Diagrama do Banco
-
-*(Coloque aqui a imagem do DER.)*
-
 ## 👨‍💻 Autor
 
 **Mikael Antônio**
