@@ -1,21 +1,19 @@
-# Hospital-Database-System
-
-# Sistema Hospitalar - PostgreSQL
+# 🏥 Sistema Hospitalar - PostgreSQL
 
 Projeto desenvolvido para praticar modelagem de banco de dados utilizando PostgreSQL.
 
-## Objetivo
+## 📌 Objetivo
 
 Simular um sistema hospitalar contendo pacientes, médicos, consultas, quartos, leitos e internações.
 
-## Tecnologias
+## 🚀 Tecnologias
 
 - PostgreSQL
 
-## Conceitos aplicados
+## 📚 Conceitos aplicados
 
 - Modelagem de Banco de Dados
-- DER (Diagrama Entidade-Relacionamento)
+- Diagrama Entidade-Relacionamento (DER)
 - Primary Key
 - Foreign Key
 - Relacionamentos 1:N
@@ -23,7 +21,7 @@ Simular um sistema hospitalar contendo pacientes, médicos, consultas, quartos, 
 - INSERT
 - SELECT
 
-## Estrutura do Banco
+## 🗂️ Estrutura do Banco
 
 - Pacientes
 - Médicos
@@ -32,7 +30,14 @@ Simular um sistema hospitalar contendo pacientes, médicos, consultas, quartos, 
 - Leitos
 - Internações
 
-## Autor
+## 📷 Diagrama do Banco
 
-Mikael Antônio
-Estudante de Análise e Desenvolvimento de Sistemas.
+*(Coloque aqui a imagem do DER.)*
+
+## 👨‍💻 Autor
+
+**Mikael Antônio**
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+
+📍 Em transição para a área de Engenharia de Dados.
